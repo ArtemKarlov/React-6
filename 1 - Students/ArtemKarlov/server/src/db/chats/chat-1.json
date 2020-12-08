@@ -1,0 +1,5 @@
+{
+    "id": "chat-1",
+    "contacts": "user-1",
+    "messages": ["msg-1", "msg-3", "msg-5", "msg-7"]
+}

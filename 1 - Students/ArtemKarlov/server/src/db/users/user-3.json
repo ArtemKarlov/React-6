@@ -1,0 +1,11 @@
+{
+    "id": "user-3",
+    "name": "Morpheus",
+    "middleName": "",
+    "surname": "",
+    "avatarUrl": "https://www.flaticon.com/svg/static/icons/svg/149/149071.svg2",
+    "email": "Morpheus@gmail.com",
+    "tel": "+79277654321",
+    "contacts": ["user-0", "user-2", "user-4", "user-5", "user-6"],
+    "chats": ["chatBot-3"]
+}

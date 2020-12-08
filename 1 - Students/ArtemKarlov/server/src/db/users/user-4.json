@@ -1,0 +1,11 @@
+{
+    "id": "user-4",
+    "name": "John",
+    "middleName": "Herbert",
+    "surname": "Dillinger",
+    "avatarUrl": "https://www.flaticon.com/svg/static/icons/svg/149/149071.svg",
+    "email": "JohnDillinger@gmail.com",
+    "tel": "+79277654321",
+    "contacts": ["user-0", "user-2", "user-3", "user-5", "user-6"],
+    "chats": ["chatBot-4"]
+}

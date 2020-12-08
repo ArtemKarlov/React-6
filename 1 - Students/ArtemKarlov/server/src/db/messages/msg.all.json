@@ -1,0 +1,10 @@
+[
+    {"id": "msg-0", "sender": "Bot", "text": "Wake up, Neo…"},
+    {"id": "msg-1", "sender": "user-0", "text": "hello"},
+    {"id": "msg-2", "sender": "Bot", "text": "The Matrix has you…"},
+    {"id": "msg-3", "sender": "user-0", "text": "how are u?"},
+    {"id": "msg-4", "sender": "Bot", "text": "The Matrix has you…"},
+    {"id": "msg-5", "sender": "user-0", "text": "i'm fine"},
+    {"id": "msg-6", "sender": "Bot", "text": "The Matrix has you…"},
+    {"id": "msg-7", "sender": "user-0", "text": "goodbye"}
+]

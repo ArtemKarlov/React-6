@@ -1,0 +1,11 @@
+{
+    "id": "user-6",
+    "name": "Rocky",
+    "middleName": "",
+    "surname": "Balboa",
+    "avatarUrl": "https://www.flaticon.com/svg/static/icons/svg/149/149071.svg",
+    "email": "RockyBalboa@gmail.com",
+    "tel": "+79277654321",
+    "contacts": ["user-0", "user-2"],
+    "chats": ["chatBot-6"]
+}

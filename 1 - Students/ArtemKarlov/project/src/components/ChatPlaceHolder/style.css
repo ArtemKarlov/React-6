@@ -1,0 +1,11 @@
+.chat__placeholder {
+    padding: 10px 20px;
+    width: 70%;
+    margin: auto;
+    transform: translateX(-15px);
+    background-color: rgba(37, 140, 96, 0.4);
+    border-radius: 8px;
+    text-align: center;
+    
+}
+
